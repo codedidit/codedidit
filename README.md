@@ -1,4 +1,4 @@
-# Hi, I'm Tmac! 👋
+# Hi, I'm Codedidit! 👋
 
 Welcome to my GitHub profile! I'm the founder of **Genius Circus**, creator of **Papert**, and a lifelong learner passionate about integrating **AI into business, education, and mental health initiatives**. Here's a snapshot of who I am and what I do:
 
