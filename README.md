@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm the founder of **Genius Circus**, creator of *
 - **📈 Startup Expert:** Founder of **Foundair**, an AI-powered startup builder helping founders validate ideas and build solutions.
 - **🧠 Mental Health Advocate:** Founder of **Joan's Help**, a nonprofit providing free mental health resources to underprivileged families worldwide.
 - **👨‍💻 Full-Stack Developer:** Crafting seamless solutions for web and app development with a focus on user experience and scalability.
-- **🧩 Prompt Engineer:** Specializing in developing advanced AI solutions and applications using models like Llama 2 and GPT.
+- **🧩 Prompt Engineer:** Specializing in developing advanced AI solutions and applications using open source models.
 
 ---
 
