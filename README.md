@@ -38,6 +38,12 @@ An AI-powered startup builder and validation tool.
 Providing over 2,000 free mental health resources to families in need.
 - **Mission:** Supporting mental health globally
 
+### 4. [Axiom Prompt Engineering](https://github.com/codedidit/axiom)
+Specializing in prompt engineering to develop advanced AI solutions.
+
+### 5. [Cursorgod](https://github.com/codedidit/cursorgod)
+Exploring innovative solutions to enhance cursor-based interactions and user experiences.
+
 alot of others.
 ---
 
