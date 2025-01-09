@@ -1,31 +1,23 @@
 # Hi, I'm Codedidit! 👋
 
-Welcome to my GitHub profile! I'm the founder of **Genius Circus**, creator of **Papert**, and a lifelong learner passionate about integrating **AI into business, education, and mental health initiatives**. Here's a snapshot of who I am and what I do:
+Welcome to my GitHub profile! I'm the founder of **Genius Circus**, creator of **Papert**, and a lifelong learner passionate about Machine Learning and integrating **AI into business, education, and mental health initiatives**.
 
 ---
 
 ## 🚀 About Me
 
-- **🌟 Innovator:** Creator of Papert, an AI-driven education platform offering free personalized learning for grades 6–12 and empowering educators globally.
-- **📈 Startup Expert:** Founder of **Foundair**, an AI-powered startup builder helping founders validate ideas and build solutions.
-- **🧠 Mental Health Advocate:** Founder of **Joan's Help**, a nonprofit providing free mental health resources to underprivileged families worldwide.
+- **🌟 Innovation:** Creator of Papert, an AI-driven education platform offering free personalized learning for grades 6–12 and empowering educators globally.
+- **📈 Startups:** Founder of **Foundair**, an AI-powered startup builder helping founders validate ideas and build solutions.
+- **🧠 Mental Health:** Founder of **Joan's Help**, a nonprofit providing free mental health resources to underprivileged families worldwide.
 - **👨‍💻 Full-Stack Developer:** Crafting seamless solutions for web and app development with a focus on user experience and scalability.
-- **🧩 Prompt Engineer:** Specializing in developing advanced AI solutions and applications using open source models.
+- **🧩 Prompt Engineer(loose term):** Specializing in developing advanced AI solutions and applications using open source models.
 
 ---
 
-## 🛠️ My Toolbox
+## 🚀 My Toolbox
 
 ### Languages & Frameworks:
-- **Frontend:** React, HTML/CSS, JavaScript
-- **Backend:** Node.js, Python, Flask, Django
-- **Database:** PostgreSQL, MongoDB
-- **Other:** PowerShell, Bash, APIs
-
-### Platforms & Tools:
-- **Hosting:** Netlify, Vercel, AWS
-- **Collaboration:** Git, GitHub, ClickUp, Linear
-- **AI Tools:** OpenAI, LangChain, RAG, Llama 2
+I am a full stack developer and machine learning engineer.
 
 ---
 
@@ -42,15 +34,11 @@ An AI-powered startup builder and validation tool.
 - **Features:** Problem discovery, market research, competition analysis, analytics
 - **UI Inspiration:** ClickUp/Linear for clean and modern project management
 
-### 3. Apptionary
-A community-driven platform listing tools with affiliate links.
-- **Hosting:** Netlify
-- **Focus:** Robust community and affiliate program
-
-### 4. Joan's Help
+### 3. Joan's Help
 Providing over 2,000 free mental health resources to families in need.
 - **Mission:** Supporting mental health globally
 
+alot of others.
 ---
 
 ## 📚 Currently Exploring
@@ -58,6 +46,7 @@ Providing over 2,000 free mental health resources to families in need.
 - **Advanced Coding Agents:** Engineering prompts for tools like Copilot, Cursor Composer, and Windsurf Cascade.
 - **Rapid Development Challenges:** Building Chrome extensions in a day and turning them into income streams.
 - **LLM Customization:** Developing tailored solutions with models like Llama 2 for enhanced business and education use cases.
+- **Machine Learning Research:** Currently diving deep into the latest advancements in machine learning, focusing on natural language processing and reinforcement learning. My research aims to create innovative solutions that can be applied in various domains, including education and mental health.
 
 ---
 
@@ -69,7 +58,7 @@ Providing over 2,000 free mental health resources to families in need.
 
 ### Reach Out:
 - **🌐 Website:** codedidit.github.io
-- **📬 Email:** codedidit@outlook.com
+- **📬 Email:** tyler@papert.ai
 - **🎥 Twitch:** https://twitch.tv/codedidit
 - **🧠 Expertise:** codedidit
 
@@ -80,4 +69,9 @@ Providing over 2,000 free mental health resources to families in need.
 I experience a constant state of anxiety, but I channel it into my work to fuel creativity and empathy.
 I failed at startups so you don't have to—my lessons learned are your roadmap to success.
 I'm a big fan of gamification and am on a mission to make education as engaging as possible.
-Thanks for stopping by! 🚀 Let's build something amazing together. 💡
+
+---
+
+## 💡 Always Interested in Teaching and Freelancing
+
+I am passionate about teaching machine learning and always looking for opportunities to share my knowledge and work on exciting projects. If you are interested in collaborating or need expertise in machine learning and full stack development, feel free to reach out. Let's build something amazing together.
