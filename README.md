@@ -115,7 +115,7 @@ alot of others.
 - **Personality:** ISFP—A quiet observer with a knack for meaningful creativity.
 
 ### Reach Out:
-- **🌐 Personal Websites:** codedidit.com
+- **🌐 Personal Websites:** https://codedidit.com
 - **📬 Email:** tyler@papert.ai
 - **🎥 Twitch:** https://twitch.tv/tzor
 - **🧠 Expertise:** I didnt do it, codedidit.
