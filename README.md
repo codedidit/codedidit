@@ -1,3 +1,48 @@
+<!-- Profile Banner -->
+<img width="100%" src="https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/60644081/CtaQsrtI0Ojc7l36.png?Expires=1740103231&Signature=T~DT082-a5YFBAWITuIkPyM~j4aIhI72FfiXpv8shTSg~knUC5vljUAGEjZPoZzcet7qc7zX2yqhNzyX2I~1~GhQACBrRmvo0vJBLLJbZxXboVBUqIjlrY02DOgJKUnaHfnpuDLF3~sL77O4RA-CNvTsXLiC64im3ghukduBfzjCbq-a8sya97EfvNRmXoUVfIvWU~yJt03D9DTKjuIhwF7IvQJwjIbhj1ezpnlpWHJTBFrs6p9thNBDkYgOoJSDErd32EyNPq4xjD8BE8diiq6gGHp68vHdVqAH3uwy-EayUwZhn6Op1ZbNfKBJv5rccUR2Yme2MMax3SS2Ln~ijg__&Key-Pair-Id=K3USGZIKWMDCSX" alt="Profile Banner" />
+
+<!-- Welcome Message -->
+<h1 align="center">Hi there, I'm Codedidit 👋</h1>
+<p align="center">
+  Welcome to my GitHub profile where I work on AI and ML Research and full stack projects. I try to always provide free resources where I can so look around and enjoy.
+</p>
+
+<!-- Custom Visual Badges -->
+<div align="center">
+  <!-- Featured Projects: adjust the URLs as needed -->
+  <a href="https://www.papert.io" target="_blank">
+    <img src="https://img.shields.io/badge/Papert-AI--Platform-blue?style=for-the-badge" alt="Papert" />
+  </a>
+  <a href="https://foundair.com" target="_blank">
+    <img src="https://img.shields.io/badge/Foundair-Startup-orange?style=for-the-badge" alt="Foundair" />
+  </a>
+  <a href="https://github.com/codedidit/learnanything" target="_blank">
+    <img src="https://img.shields.io/badge/Learn%20Anything-Open%20Guide-green?style=for-the-badge" alt="Learn Anything" />
+  </a>
+  <a href="https://github.com/codedidit/axiom" target="_blank">
+    <img src="https://img.shields.io/badge/Axiom-Prompt%20Engineering-purple?style=for-the-badge" alt="Axiom Prompt Engineering" />
+  </a>
+</div>
+
+<br />
+
+<!-- Languages & Tools -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- Add additional language/tool badges as desired -->
+</div>
+
+<br />
+
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://github.com/codedidit">
+    <img src="https://github-readme-stats.vercel.app/api?username=codedidit&count_private=true&theme=radical" alt="Codedidit's GitHub Stats" />
+  </a>
+</div>
+
+
 # Hi, I'm Codedidit! 👋
 
 Welcome to my GitHub profile! I'm the founder of **Genius Circus**, creator of **Papert**, and a lifelong learner passionate about Machine Learning and integrating **AI into business, education, and mental health initiatives**.
