@@ -7,6 +7,7 @@
   Welcome to my GitHub profile where I work on AI and ML Research and full stack projects. I try to always provide free resources where I can so look around and enjoy.
 </p>
 
+
 <!-- Custom Visual Badges -->
 <div align="center">
   <!-- Featured Projects: adjust the URLs as needed -->
@@ -30,17 +31,23 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <!-- Add additional language/tool badges as desired -->
 </div>
 
-<br />
+<br/><br/>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (Trophies) -->
 <div align="center">
-  <a href="https://github.com/codedidit">
-    <img src="https://github-readme-stats.vercel.app/api?username=codedidit&count_private=true&theme=radical" alt="Codedidit's GitHub Stats" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=codedidit&theme=darkhub&rank=SSS,SS,S,AAA,AA,A&row=2&margin-w=15&margin-h=15" />
 </div>
+
+<br/><br/>
 
 
 # Hi, I'm Codedidit! 👋
@@ -55,7 +62,7 @@ Welcome to my GitHub profile! I'm the founder of **Genius Circus**, creator of *
 - **📈 Startups:** Founder of **Foundair**, an AI-powered startup builder helping founders validate ideas and build solutions.
 - **🧠 Mental Health:** Founder of **Joan's Help**, a nonprofit providing free mental health resources to underprivileged families worldwide.
 - **👨‍💻 Full-Stack Developer:** Crafting seamless solutions for web and app development with a focus on user experience and scalability.
-- **🧩 Prompt Engineer(loose term):** Specializing in developing advanced AI solutions and applications using open source models.
+- **🧩 Engineer:** Specializing in developing advanced AI solutions and applications using open source models.
 
 ---
 
@@ -74,7 +81,7 @@ An AI-driven personalized learning platform for students and educators.
 - **Vision:** AI tutor for every student, impactful tools for every teacher
 - **Status:** Pre-launch, seed funding phase
 
-### 2. Foundair
+### 2. [Foundair](https://foundair.netlify.app)
 An AI-powered startup builder and validation tool.
 - **Features:** Problem discovery, market research, competition analysis, analytics
 - **UI Inspiration:** ClickUp/Linear for clean and modern project management
@@ -86,17 +93,17 @@ Providing over 2,000 free mental health resources to families in need.
 ### 4. [Axiom Prompt Engineering](https://github.com/codedidit/axiom)
 Specializing in prompt engineering to develop advanced AI solutions.
 
-### 5. [Cursorgod](https://github.com/codedidit/cursorgod)
-Exploring innovative solutions to enhance cursor-based interactions and user experiences.
+### 5. [Learning Anything](https://github.com/codedidit/learnanything)
+Exploring innovative solutions to enhance everyones personalized learning interactions and experiences.
 
 alot of others.
 ---
 
 ## 📚 Currently Exploring
 
-- **Advanced Coding Agents:** Engineering prompts for tools like Copilot, Cursor Composer, and Windsurf Cascade.
-- **Rapid Development Challenges:** Building Chrome extensions in a day and turning them into income streams.
-- **LLM Customization:** Developing tailored solutions with models like Llama 2 for enhanced business and education use cases.
+- **Advanced Coding Agents:** Engineering prompts
+- **Rapid Development Challenges:** 
+- **LLM Customization:** Developing tailored solutions with models for enhanced business and education use cases.
 - **Machine Learning Research:** Currently diving deep into the latest advancements in machine learning, focusing on natural language processing and reinforcement learning. My research aims to create innovative solutions that can be applied in various domains, including education and mental health.
 
 ---
@@ -108,8 +115,7 @@ alot of others.
 - **Personality:** ISFP—A quiet observer with a knack for meaningful creativity.
 
 ### Reach Out:
-- **🌐 Personal Websites:** codedidit.github.io
-- tyler.geniuscircus.com
+- **🌐 Personal Websites:** codedidit.com
 - **📬 Email:** tyler@papert.ai
 - **🎥 Twitch:** https://twitch.tv/tzor
 - **🧠 Expertise:** I didnt do it, codedidit.
