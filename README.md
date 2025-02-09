@@ -14,13 +14,13 @@
   <a href="https://www.papert.io" target="_blank">
     <img src="https://img.shields.io/badge/Papert-AI--Platform-blue?style=for-the-badge" alt="Papert" />
   </a>
-  <a href="https://foundair.com" target="_blank">
+  <a href="https://foundair.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Foundair-Startup-orange?style=for-the-badge" alt="Foundair" />
   </a>
   <a href="https://github.com/codedidit/learnanything" target="_blank">
     <img src="https://img.shields.io/badge/Learn%20Anything-Open%20Guide-green?style=for-the-badge" alt="Learn Anything" />
   </a>
-  <a href="https://github.com/codedidit/axiom" target="_blank">
+  <a href="https://github.com/codedidit/axiomprompts" target="_blank">
     <img src="https://img.shields.io/badge/Axiom-Prompt%20Engineering-purple?style=for-the-badge" alt="Axiom Prompt Engineering" />
   </a>
 </div>
