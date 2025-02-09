@@ -20,7 +20,7 @@
   <a href="https://github.com/codedidit/learnanything" target="_blank">
     <img src="https://img.shields.io/badge/Learn%20Anything-Open%20Guide-green?style=for-the-badge" alt="Learn Anything" />
   </a>
-  <a href="https://github.com/codedidit/axiomprompts" target="_blank">
+  <a href="https://github.com/codedidit/axiomprompting" target="_blank">
     <img src="https://img.shields.io/badge/Axiom-Prompt%20Engineering-purple?style=for-the-badge" alt="Axiom Prompt Engineering" />
   </a>
 </div>
@@ -90,7 +90,7 @@ An AI-powered startup builder and validation tool.
 Providing over 2,000 free mental health resources to families in need.
 - **Mission:** Supporting mental health globally
 
-### 4. [Axiom Prompt Engineering](https://github.com/codedidit/axiom)
+### 4. [Axiom Prompt Engineering](https://github.com/codedidit/axiomprompting)
 Specializing in prompt engineering to develop advanced AI solutions.
 
 ### 5. [Learning Anything](https://github.com/codedidit/learnanything)
