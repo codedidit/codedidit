@@ -49,6 +49,7 @@
 
 <br/><br/>
 
+**If you are ever interested in helping our work towards better education and mental health for all you can help [HERE](www.buymeacoffee.com/bettereducation) 🌟**
 
 # Hi, I'm Codedidit! 👋
 
