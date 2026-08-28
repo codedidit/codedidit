@@ -1,6 +1,3 @@
-<!-- Profile Banner -->
-<img width="100%" src="https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/60644081/CtaQsrtI0Ojc7l36.png?Expires=1740103231&Signature=T~DT082-a5YFBAWITuIkPyM~j4aIhI72FfiXpv8shTSg~knUC5vljUAGEjZPoZzcet7qc7zX2yqhNzyX2I~1~GhQACBrRmvo0vJBLLJbZxXboVBUqIjlrY02DOgJKUnaHfnpuDLF3~sL77O4RA-CNvTsXLiC64im3ghukduBfzjCbq-a8sya97EfvNRmXoUVfIvWU~yJt03D9DTKjuIhwF7IvQJwjIbhj1ezpnlpWHJTBFrs6p9thNBDkYgOoJSDErd32EyNPq4xjD8BE8diiq6gGHp68vHdVqAH3uwy-EayUwZhn6Op1ZbNfKBJv5rccUR2Yme2MMax3SS2Ln~ijg__&Key-Pair-Id=K3USGZIKWMDCSX" alt="Profile Banner" />
-
 <!-- Welcome Message -->
 <h1 align="center">Hi there, I'm Codedidit 👋</h1>
 <p align="center">
