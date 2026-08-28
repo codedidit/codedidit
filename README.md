@@ -54,17 +54,17 @@ Welcome to my GitHub profile! I'm the founder of **Genius Circus**, creator of *
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- **🌟 Innovation:** Creator of Papert, an AI-driven education platform offering free personalized learning for grades 6–12 and empowering educators globally.
-- **📈 Startups:** Founder of **Foundair**, an AI-powered startup builder helping founders validate ideas and build solutions.
-- **🧠 Mental Health:** Founder of **Joan's Help**, a nonprofit providing free mental health resources to underprivileged families worldwide.
-- **👨‍💻 Full-Stack Developer:** Crafting seamless solutions for web and app development with a focus on user experience and scalability.
-- **🧩 Engineer:** Specializing in developing advanced AI solutions and applications using open source models.
+- **Innovation:** Creator of Papert, an AI-driven education platform offering free personalized learning for grades 6–12 and empowering educators globally.
+- **Startups:** Founder of **Foundair**, an AI-powered startup builder helping founders validate ideas and build solutions.
+- **Mental Health:** Founder of **Joan's Help**, a nonprofit providing free mental health resources to underprivileged families worldwide.
+- **Full-Stack Developer:** Crafting seamless solutions for web and app development with a focus on user experience and scalability.
+- **Engineer:** Specializing in developing advanced AI solutions and applications using open source models.
 
 ---
 
-## 🚀 My Toolbox
+## My Toolbox
 
 ### Languages & Frameworks:
 I am a full stack developer and machine learning engineer.
@@ -87,13 +87,13 @@ I am a full stack developer and machine learning engineer.
 - **Personality:** ISFP—A quiet observer with a knack for meaningful creativity.
 
 ### Reach Out:
-- **📬 Email:** tyler@papert.ai
-- **🎥 Twitch:** https://twitch.tv/tzor
-- **🧠 Expertise:** I didnt do it, codedidit.
+- **Email:** tyler@papert.ai
+- **Twitch:** https://twitch.tv/tzor
+- **Expertise:** I didnt do it, codedidit.
 
 ---
 
-## 🌟 Fun Facts
+## Fun Facts
 
 I experience a constant state of anxiety, but I channel it into my work to fuel creativity and empathy.
 I failed at startups so you don't have to—my lessons learned are your roadmap to success.
