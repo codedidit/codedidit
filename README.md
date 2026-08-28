@@ -71,32 +71,6 @@ I am a full stack developer and machine learning engineer.
 
 ---
 
-## 🌐 Featured Projects
-
-### 1. [Papert](https://www.papert.io)
-An AI-driven personalized learning platform for students and educators.
-- **Target:** Grades 6–12, educators globally
-- **Vision:** AI tutor for every student, impactful tools for every teacher
-- **Status:** Pre-launch, seed funding phase
-
-### 2. [Foundair](https://foundair.netlify.app)
-An AI-powered startup builder and validation tool.
-- **Features:** Problem discovery, market research, competition analysis, analytics
-- **UI Inspiration:** ClickUp/Linear for clean and modern project management
-
-### 3. Joan's Help
-Providing over 2,000 free mental health resources to families in need.
-- **Mission:** Supporting mental health globally
-
-### 4. [Axiom Prompt Engineering](https://github.com/codedidit/axiomprompting)
-Specializing in prompt engineering to develop advanced AI solutions.
-
-### 5. [Learning Anything](https://github.com/codedidit/learnanything)
-Exploring innovative solutions to enhance everyones personalized learning interactions and experiences.
-
-alot of others.
----
-
 ## 📚 Currently Exploring
 
 - **Advanced Coding Agents:** Engineering prompts
@@ -113,7 +87,6 @@ alot of others.
 - **Personality:** ISFP—A quiet observer with a knack for meaningful creativity.
 
 ### Reach Out:
-- **🌐 Personal Websites:** https://codedidit.com
 - **📬 Email:** tyler@papert.ai
 - **🎥 Twitch:** https://twitch.tv/tzor
 - **🧠 Expertise:** I didnt do it, codedidit.
